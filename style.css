@@ -15,6 +15,17 @@ h1 {
     text-decoration: underline;
 }
 
+.box:hover{
+    cursor: pointer;
+}
+
+#reset-btn:hover {
+    cursor: pointer;
+}
+
+#new-btn:hover {
+    cursor: pointer;
+}
 
 .container {
     height: 70vh;
